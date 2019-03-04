@@ -1,2 +1,2 @@
 # RPS-Multiplayer
-A multiplayer Rock, Paper , Scissors game powered by js and has firebase as the server 
+An online  multiplayer rock, paper , scissors game using firebase. 
